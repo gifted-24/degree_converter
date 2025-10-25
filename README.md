@@ -7,7 +7,7 @@ A simple command-line tool to convert temperatures between Celsius and Fahrenhei
 1.  **Prerequisites:** Make sure you have Rust installed. If not, you can install it from [rust-lang.org](https://www.rust-lang.org/).
 2.  **Clone the repository:**
     ```bash
-    git clone gifted-24/degree_converter
+    git clone https://github.com/gifted-24/degree_converter
     cd degree-converter
     ```
 3.  **Run the program:**
