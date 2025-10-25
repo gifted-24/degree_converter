@@ -8,7 +8,7 @@ A simple command-line tool to convert temperatures between Celsius and Fahrenhei
 2.  **Clone the repository:**
     ```bash
     git clone https://github.com/gifted-24/degree_converter
-    cd degree-converter
+    cd degree_converter
     ```
 3.  **Run the program:**
     ```bash
